@@ -1,0 +1,1 @@
+<slaveserver><name>cims-bioko</name><hostname>130.111.132.30</hostname><port>8182</port><webAppName>cimsPentaho</webAppName><username>cims</username><password>Encrypted 2be98afc86aa7f2e4cb09ab7eca93a7d5</password><proxy_hostname/><proxy_port/><non_proxy_hosts/><master>Y</master><sslMode>N</sslMode></slaveserver>
